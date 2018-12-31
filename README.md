@@ -27,12 +27,15 @@ Age-adjusted death rate(AADR) is a statistical process applied to the rate of di
 ## Result
 
 - Death rate of each survey questions with different age
+
 ![](/image/result.png)
 
 - Death rate of adults 18 years and older
+
 ![](/image/ex1.png)
 
 - Death rate of adults 50 years and older
+
 ![](/image/ex2.png)
 
 - We can see a huge discrepancy between the AADR with these two questions. Rarer symptoms caused more death than those more common symptoms. Even though the AADR just varies from 10 to about 30 and some rare symptoms may not have that of an extremely high AADR, it is generally true that, in our dataset, the rarer diseases or symptoms tend to cause more death in general.
